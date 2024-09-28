@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Lora";
+  src: url("assets/fonts/ttf/Lora-Regular.ttf");
+  format: ("ttf");
+  src: url("assets/fonts/WOFF/Lora-Regular_2.woff") format("woff");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Lora";
+  src: url("assets/fonts/ttf/Lora-Medium.ttf");
+  format: ("ttf");
+  src: url("assets/fonts/WOFF/Lora-Medium_2.woff");
+  format: ("woff");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Lora";
+  src: url("assets/fonts/ttf/Lora-Bold.ttf");
+  format: ("ttf");
+  src: url("assets/fonts/WOFF/Lora-Bold_1.woff");
+  format: ("woff");
+  font-weight: 700;
+}
+
+* {
+  font-family: "Lora", sans-serif;
+}
